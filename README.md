@@ -3,7 +3,7 @@ A space shooter game built with Uno Platform and WASM. The goal is to survive an
 
 Have a go at it here: https://asadullahrifat89.github.io/astro-odyssey-uno-platform/
 
-![master](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform/actions/workflows/main.yml/badge.svg)
+![master](https://github.com/asadullah-refat-89/Astro-Odyssey-Uno-Platform/actions/workflows/main.yml/badge.svg)
 
 ## Game features:
 
