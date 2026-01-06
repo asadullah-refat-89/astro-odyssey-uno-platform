@@ -1,7 +1,7 @@
 # astro-odyssey-uno-platform
 A space shooter game built with Uno Platform and WASM. The goal is to survive and score as far as you can by destroying meteors, enemies, and defeating level bosses.
 
-Have a go at it here: https://asadullahrifat89.github.io/astro-odyssey-uno-platform/
+Have a go at it here: https://asadullah-refat-89.github.io/astro-odyssey-uno-platform/
 
 ![master](https://github.com/asadullah-refat-89/Astro-Odyssey-Uno-Platform/actions/workflows/main.yml/badge.svg)
 
@@ -54,4 +54,4 @@ Have a go at it here: https://asadullahrifat89.github.io/astro-odyssey-uno-platf
 * Sound effects for pickups.
 
 ## Screenshot
-![asadullahrifat89 github io_astro-odyssey-uno-platform_(iPad Mini)](https://user-images.githubusercontent.com/25480176/201468727-000868b4-2c1c-4015-bdaa-431699d999e5.png)
+![asadullah-refat-89 github io_astro-odyssey-uno-platform_(iPad Mini)](https://user-images.githubusercontent.com/25480176/201468727-000868b4-2c1c-4015-bdaa-431699d999e5.png)
